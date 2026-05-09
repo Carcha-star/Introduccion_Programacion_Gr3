@@ -52,3 +52,6 @@ for (int i = 0; i < vectorsuma.Length; i++)
     Console.WriteLine($"Posición {i + 1}: {vectorsuma[i]}");
     Console.ResetColor();
 }
+
+
+//fin
