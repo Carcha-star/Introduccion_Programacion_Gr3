@@ -1,0 +1,14 @@
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\bin\Debug\net9.0\Restavector.exe
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\bin\Debug\net9.0\Restavector.deps.json
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\bin\Debug\net9.0\Restavector.runtimeconfig.json
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\bin\Debug\net9.0\Restavector.dll
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\bin\Debug\net9.0\Restavector.pdb
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\obj\Debug\net9.0\Restavector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\obj\Debug\net9.0\Restavector.AssemblyInfoInputs.cache
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\obj\Debug\net9.0\Restavector.AssemblyInfo.cs
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\obj\Debug\net9.0\Restavector.csproj.CoreCompileInputs.cache
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\obj\Debug\net9.0\Restavector.dll
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\obj\Debug\net9.0\refint\Restavector.dll
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\obj\Debug\net9.0\Restavector.pdb
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\obj\Debug\net9.0\Restavector.genruntimeconfig.cache
+C:\Users\labcisco.UAM\Desktop\Semana8\Restavector\obj\Debug\net9.0\ref\Restavector.dll

@@ -1,0 +1,14 @@
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\obj\Debug\net9.0\Sumavector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\obj\Debug\net9.0\Sumavector.AssemblyInfoInputs.cache
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\obj\Debug\net9.0\Sumavector.AssemblyInfo.cs
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\obj\Debug\net9.0\Sumavector.csproj.CoreCompileInputs.cache
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\bin\Debug\net9.0\Sumavector.exe
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\bin\Debug\net9.0\Sumavector.deps.json
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\bin\Debug\net9.0\Sumavector.runtimeconfig.json
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\bin\Debug\net9.0\Sumavector.dll
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\bin\Debug\net9.0\Sumavector.pdb
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\obj\Debug\net9.0\Sumavector.dll
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\obj\Debug\net9.0\refint\Sumavector.dll
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\obj\Debug\net9.0\Sumavector.pdb
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\obj\Debug\net9.0\Sumavector.genruntimeconfig.cache
+C:\Users\labcisco.UAM\Desktop\Semana8\Sumavector\obj\Debug\net9.0\ref\Sumavector.dll
