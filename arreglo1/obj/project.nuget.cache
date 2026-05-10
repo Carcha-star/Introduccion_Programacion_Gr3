@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "wsZ/LS10REo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\labcisco.UAM\\Desktop\\ING. De Sistemas, semana 7\\While1\\While1.csproj",
+=======
+  "dgSpecHash": "YA+W/bY+BN4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\labcisco.UAM\\Desktop\\ING. De Sistemas, semana 7\\arreglo1\\arreglo1.csproj",
+>>>>>>> af2796e (feat: add proyecto arreglo1)
+  "expectedPackageFiles": [],
+  "logs": []
+}

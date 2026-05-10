@@ -1,0 +1,14 @@
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\bin\Debug\net9.0\arreglo1.exe
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\bin\Debug\net9.0\arreglo1.deps.json
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\bin\Debug\net9.0\arreglo1.runtimeconfig.json
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\bin\Debug\net9.0\arreglo1.dll
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\bin\Debug\net9.0\arreglo1.pdb
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\obj\Debug\net9.0\arreglo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\obj\Debug\net9.0\arreglo1.AssemblyInfoInputs.cache
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\obj\Debug\net9.0\arreglo1.AssemblyInfo.cs
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\obj\Debug\net9.0\arreglo1.csproj.CoreCompileInputs.cache
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\obj\Debug\net9.0\arreglo1.dll
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\obj\Debug\net9.0\refint\arreglo1.dll
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\obj\Debug\net9.0\arreglo1.pdb
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\obj\Debug\net9.0\arreglo1.genruntimeconfig.cache
+C:\Users\labcisco.UAM\Desktop\ING. De Sistemas, semana 7\arreglo1\obj\Debug\net9.0\ref\arreglo1.dll
