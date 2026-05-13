@@ -1,0 +1,14 @@
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\bin\Debug\net10.0\Ej5_semana9.exe
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\bin\Debug\net10.0\Ej5_semana9.deps.json
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\bin\Debug\net10.0\Ej5_semana9.runtimeconfig.json
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\bin\Debug\net10.0\Ej5_semana9.dll
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\bin\Debug\net10.0\Ej5_semana9.pdb
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\obj\Debug\net10.0\Ej5_semana9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\obj\Debug\net10.0\Ej5_semana9.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\obj\Debug\net10.0\Ej5_semana9.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\obj\Debug\net10.0\Ej5_semana9.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\obj\Debug\net10.0\Ej5_semana9.dll
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\obj\Debug\net10.0\refint\Ej5_semana9.dll
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\obj\Debug\net10.0\Ej5_semana9.pdb
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\obj\Debug\net10.0\Ej5_semana9.genruntimeconfig.cache
+C:\Users\Kevin\Desktop\Arreglos\Ej5_semana9\obj\Debug\net10.0\ref\Ej5_semana9.dll

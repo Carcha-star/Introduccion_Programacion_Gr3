@@ -1,0 +1,15 @@
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\bin\Debug\net9.0\ejercicio1_semana9.exe
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\bin\Debug\net9.0\ejercicio1_semana9.deps.json
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\bin\Debug\net9.0\ejercicio1_semana9.runtimeconfig.json
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\bin\Debug\net9.0\ejercicio1_semana9.dll
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\bin\Debug\net9.0\ejercicio1_semana9.pdb
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\obj\Debug\net9.0\ejercicio1_semana9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\obj\Debug\net9.0\ejercicio1_semana9.AssemblyInfoInputs.cache
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\obj\Debug\net9.0\ejercicio1_semana9.AssemblyInfo.cs
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\obj\Debug\net9.0\ejercicio1_semana9.csproj.CoreCompileInputs.cache
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\obj\Debug\net9.0\ejercicio1_semana9.sourcelink.json
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\obj\Debug\net9.0\ejercicio1_semana9.dll
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\obj\Debug\net9.0\refint\ejercicio1_semana9.dll
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\obj\Debug\net9.0\ejercicio1_semana9.pdb
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\obj\Debug\net9.0\ejercicio1_semana9.genruntimeconfig.cache
+C:\Users\labcisco.UAM\Desktop\Semana8\ejercicio1_semana9\obj\Debug\net9.0\ref\ejercicio1_semana9.dll
