@@ -1,0 +1,15 @@
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\bin\Debug\net9.0\Matriz1.exe
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\bin\Debug\net9.0\Matriz1.deps.json
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\bin\Debug\net9.0\Matriz1.runtimeconfig.json
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\bin\Debug\net9.0\Matriz1.dll
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\bin\Debug\net9.0\Matriz1.pdb
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\obj\Debug\net9.0\Matriz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\obj\Debug\net9.0\Matriz1.AssemblyInfoInputs.cache
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\obj\Debug\net9.0\Matriz1.AssemblyInfo.cs
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\obj\Debug\net9.0\Matriz1.csproj.CoreCompileInputs.cache
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\obj\Debug\net9.0\Matriz1.sourcelink.json
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\obj\Debug\net9.0\Matriz1.dll
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\obj\Debug\net9.0\refint\Matriz1.dll
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\obj\Debug\net9.0\Matriz1.pdb
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\obj\Debug\net9.0\Matriz1.genruntimeconfig.cache
+C:\Users\labcisco.UAM\Desktop\Semana_9\Introduccion_Programacion_Gr3\Matriz1\obj\Debug\net9.0\ref\Matriz1.dll
