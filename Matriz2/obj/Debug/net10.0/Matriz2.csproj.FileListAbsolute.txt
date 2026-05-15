@@ -1,0 +1,14 @@
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\bin\Debug\net10.0\Matriz2.exe
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\bin\Debug\net10.0\Matriz2.deps.json
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\bin\Debug\net10.0\Matriz2.runtimeconfig.json
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\bin\Debug\net10.0\Matriz2.dll
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\bin\Debug\net10.0\Matriz2.pdb
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\obj\Debug\net10.0\Matriz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\obj\Debug\net10.0\Matriz2.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\obj\Debug\net10.0\Matriz2.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\obj\Debug\net10.0\Matriz2.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\obj\Debug\net10.0\Matriz2.dll
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\obj\Debug\net10.0\refint\Matriz2.dll
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\obj\Debug\net10.0\Matriz2.pdb
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\obj\Debug\net10.0\Matriz2.genruntimeconfig.cache
+C:\Users\Kevin\Desktop\Arreglos\Matriz2\obj\Debug\net10.0\ref\Matriz2.dll
